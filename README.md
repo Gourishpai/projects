@@ -1,3 +1,3 @@
 # personal projects 
-data analysis projects using python and machine learning 
-powerbi dashboard on superstore sales data
+data analysis projects using python and machine learning.
+Data visualization project on superstore sales data using Powerbi 
